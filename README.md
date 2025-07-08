@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Performance Management System
 
 A console-based Python application designed to efficiently manage student academic records using nested dictionaries. This project simulates a simple student management system where users can add, update, delete, and retrieve student records along with subject-wise marks, compute averages, identify toppers, and sort students based on total marks.
@@ -47,3 +48,6 @@ This application provides hands-on practice with Python's dictionary data struct
 4. Run the program:
    ```bash
    python student_manager.py
+=======
+# student-performance-system
+>>>>>>> d858a58416ff076f3487124cda9a330b0906e563
